@@ -1,0 +1,19 @@
+router_inference/config/weave-router.json
+  s_7ce6a4c83a15b2::t_f3b9da1644bfb8 12,14-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.10",
+  "base_commit_sha": "bcb413da63ba8b7f5362f4ed694256d97ffa7249",
+  "prompts": {},
+  "sessions": {
+    "s_7ce6a4c83a15b2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6bd10789-5187-48eb-888c-b8f1c5d2f46b",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "steventohme <steven@workweave.ai>"
+    }
+  }
+}
